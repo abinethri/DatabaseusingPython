@@ -1,0 +1,8 @@
+*.pyc
+testlist.py
+*.json
+*.xml
+*~
+db.sqlite
+sql3.db
+*.txt
